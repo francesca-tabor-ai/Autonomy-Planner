@@ -1,0 +1,8 @@
+{
+  "name": "Autonomy Planner",
+  "description": "A comprehensive tool for designing, simulating, and governing graduated autonomy ladders and escalation paths for conversational AI systems.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
